@@ -1,3 +1,4 @@
 .vscode/
-Atom/
+.idea/
+.ipynb_checkpoints
 test.py
