@@ -88,8 +88,4 @@ Exploring built-in modules, date-time handling, and iteration protocols.
    ```bash
    jupyter notebook
    ```
-<<<<<<< HEAD
    Or open any `.ipynb` worksheet directly in your IDE (e.g., VS Code / Antigravity).
-=======
-   Or open any `.ipynb` worksheet directly in your IDE (e.g., VS Code / Antigravity).
->>>>>>> my_branch
